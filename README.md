@@ -1,4 +1,3 @@
 LinkToLink
 ==========
-
-a game of LinkToLink 
+(java)a game of LinkToLink 
